@@ -92,6 +92,12 @@
         width: 100%;
         left: 0;
     }
+
+    .mt-auto-p-4 {
+        position: relative;
+        text-align: center;
+        top: 10vh;
+    }
 }
 
 @media (max-width: 991.98px) {
