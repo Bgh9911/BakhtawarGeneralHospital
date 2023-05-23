@@ -98,6 +98,19 @@
         text-align: center;
         top: 10vh;
     }
+
+    .team-heading {
+        position: relative;
+        left: 45vh;
+    }
+    .team-heading-1 {
+        position: relative;
+        left: 30vh;
+    }
+    .team-heading-2 {
+        position: relative;
+        left: 50vh;
+    }
 }
 
 @media (max-width: 991.98px) {
